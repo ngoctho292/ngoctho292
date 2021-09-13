@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python,...
+- 💪 2021 Goals: Learning many things in Front-End after ==> Full-Stack :3
 - ⭐: Reading, listening, walking, running, playing game... and blade wind😅
 
 <h1 align="center">Visitor's count :eyes:</h1>
