@@ -1,4 +1,4 @@
-### Hi, I'm NGOC THO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px"> -  [NGUYEN NGOC THO][website] = Facebook 🌻  
+### Hi, I'm NGOC THO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> -  [NGUYEN NGOC THO][website] = Facebook 🌻  
 
 
 - 🔭 Passion in something ... (secret😊)
