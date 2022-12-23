@@ -9,19 +9,22 @@
 <h1 align="center">Visitor's count :eyes:</h1>
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctho}/count.svg" alt="ngoctho :: Visitor's Count" /></p>
 -->
+<!--
 ### :zap: GitHub Stats
 
 <table align="center">
 <tr>
-  <!--
+  
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=ngoctho&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_border=true&theme=monokai" />
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctho&layout=compact&show_icons=true&hide_border=true&theme=monokai" />    
   </td>
-  -->
+  
   <td width="80%"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></td>
 </tr>
 <table>
+-->
+<img align="center" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
