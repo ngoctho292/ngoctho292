@@ -5,19 +5,21 @@
 - 💪 2021 Goals: Learning many things in Front-End after ==> Full-Stack :3
 - ⭐: Reading, listening, walking, running, playing game... and blade wind😅
 
+<!-- 
 <h1 align="center">Visitor's count :eyes:</h1>
-
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctho}/count.svg" alt="ngoctho :: Visitor's Count" /></p>
-
+-->
 ### :zap: GitHub Stats
 
-<table>
+<table align="center">
 <tr>
+  <!--
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=ngoctho&show_icons=true&hide=contribs,prs&cache_seconds=86400&hide_border=true&theme=monokai" />
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctho&layout=compact&show_icons=true&hide_border=true&theme=monokai" />    
   </td>
-  <td width="52%"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></td>
+  -->
+  <td width="80%"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></td>
 </tr>
 <table>
 
