@@ -2,8 +2,8 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Front-End after ==> Full-Stack :3
-- ⭐: Reading, listening, walking, running, playing game... and blade wind😅
+- 💪 2025 Goals: Learning many things in Front-End after ==> Full-Stack :3
+- ⭐ Reading, listening, walking, running, playing game... and blade wind😅
 
 <!-- 
 <h1 align="center">Visitor's count :eyes:</h1>
@@ -37,11 +37,13 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 
 ---
 
-### 📫 Contact me via:
+### 📫 Contact me:
 - EMAIL: nguyenngoctho393@gmail.com
 - FACEBOOK: Nguyễn Ngọc Thọ
 
